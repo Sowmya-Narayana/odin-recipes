@@ -1,1 +1,3 @@
 # odin-recipes
+This is just my test to see whatever i have learnt works or not..ie git cloning git adding commiting
+I have so far completed learning about how to use command line to use distributed version control ie git and started using github created a couple of repositories learnt about the Basics of HTML such as the boilerplate which defines the structure of your Html and also learnt about various HTML elemnets how to add links to our webpage and how to add images etc 
